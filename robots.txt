@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luongs3.github.io/cozy-cabin-living/sitemap.xml
